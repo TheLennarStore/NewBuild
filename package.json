@@ -1,0 +1,26 @@
+{
+  "name": "Stefan Template",
+  "version": "1.0.0",
+  "description": "Stefan build for a SASS Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheLennarStore/sass.git"
+  },
+  "keywords": [],
+  "author": "Stefan R Wylie",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-ruby-sass": "^1.4.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-webserver": "^0.9.1"
+  }
+}

@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+.tmp
+.sass-cache/
+*.css.map
+.git/
+builds/Master/img/*.jpg
+builds/Master/img/*.gif
+builds/Master/img/*.psd
