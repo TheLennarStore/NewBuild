@@ -1,5 +1,5 @@
 {
-  "name": "Stefan Template",
+  "name": "Stefan-Template",
   "version": "1.0.0",
   "description": "Stefan build for a SASS Template",
   "main": "index.js",
@@ -14,7 +14,7 @@
   "author": "Stefan R Wylie",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.0.0"
+    "bootstrap": "^4.0.0-alpha.6"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
